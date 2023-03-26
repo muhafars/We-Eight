@@ -1,7 +1,7 @@
 {
   "name": "week-8",
   "version": "1.0.0",
-  "description": "Progress Belajar Week 8",
+  "description": "Node JS Class MERN",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
